@@ -7,7 +7,7 @@ I'm a passionate problem-solver who enjoys building smart systems that deliver r
 
 
 
-<a href="https://aadil29.github.io/ProjectPortfolio/" target="_blank">
+<a href="https://aadil29.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
